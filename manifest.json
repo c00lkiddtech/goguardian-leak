@@ -1,0 +1,22 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "128.png",
+         "16": "16.png",
+         "32": "32.png",
+         "48": "48.png"
+      },
+      "default_title": "GoGuardian License"
+   },
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "32": "32.png",
+      "48": "48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxuQ5v4xDF0M2teRuGgZ8l+EhKb4bt1aOx5GAOihnMYc0Tm9TJ/7SHQtlciIIpbbILpLWH5bIiMXtpmTrzbuoVtBCXvGo2IBrBTFFPWRzZb6B1q27KrOCjjvMbE9/t8uMuKsr5E+HHS23jYiP9dSE57gPHfhEpkGSWf2ZYY8LBoylvPWPa0pM2/GJCj73CdQjcRVHPvZo8p3x4ecBfWvQCjnKFjKmFrOmu4IiPGIhaHfwonugr5Gq26EVcHLEyWscoAiCCy5sDDBjBxRh/q+LpOaZrdnQwPjjbQTlauQ1X65PeoVuKXXCetB5a1kPsoCmc92oN/j2KLavZpGBfUW8cwIDAQAB",
+   "manifest_version": 3,
+   "name": "GoGuardian License",
+   "update_url": "https://ticketmaster.goguardian.com/update",
+   "version": "5.0.0.0"
+}
